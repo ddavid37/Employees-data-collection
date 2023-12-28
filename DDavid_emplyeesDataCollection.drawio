@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" modified="2023-11-18T23:15:10.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="484Qijxgk96eCL_aJcKc" version="22.1.3" type="device">
+  <diagram name="‫עמוד-1‬" id="j45RbCu36w_abp8cMbE-">
+    <mxGraphModel dx="1353" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KAmoRC1d8-6ZEea_E789-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-1" target="KAmoRC1d8-6ZEea_E789-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-2" target="KAmoRC1d8-6ZEea_E789-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-2" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ask for # absent days&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-4" target="KAmoRC1d8-6ZEea_E789-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-4" value="Ask for employee ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-5" target="KAmoRC1d8-6ZEea_E789-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-5" value="Calculate total days of absent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-6" target="KAmoRC1d8-6ZEea_E789-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-6" value="Ask for # employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-7" target="KAmoRC1d8-6ZEea_E789-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-40" />
+              <mxPoint x="400" y="-130" />
+              <mxPoint x="360" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-7" target="KAmoRC1d8-6ZEea_E789-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-7" value="Is # positiove?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-8" value="Is # not negative?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="480" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-80" as="sourcePoint" />
+            <mxPoint x="440" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-18" value="Output error message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-20" target="KAmoRC1d8-6ZEea_E789-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-20" value="Is # positiove?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="210" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="targetPoint" />
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="250" />
+              <mxPoint x="400" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-31" target="KAmoRC1d8-6ZEea_E789-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-31" target="KAmoRC1d8-6ZEea_E789-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="70" />
+              <mxPoint x="130" y="395" />
+              <mxPoint x="131" y="395" />
+              <mxPoint x="131" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-31" value="for loop:&lt;br&gt;int count = 1; count &amp;lt;= numEmployees; count++" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="20" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-33" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-35" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="targetPoint" />
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="400" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-40" target="KAmoRC1d8-6ZEea_E789-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-40" value="Save # in file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-43" target="KAmoRC1d8-6ZEea_E789-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-43" value="Save # in file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.438;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-8" target="KAmoRC1d8-6ZEea_E789-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-47" value="Calculate average days of absent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-48" target="KAmoRC1d8-6ZEea_E789-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-48" value="Display num employees and averaged # of absent in the file." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-49" target="KAmoRC1d8-6ZEea_E789-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-49" value="Display exit message" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="940" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.452;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-47" target="KAmoRC1d8-6ZEea_E789-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-53" value="Finish" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1090" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-54" value="Pause system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1010" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.57;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-54" target="KAmoRC1d8-6ZEea_E789-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-57" value="Output error message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-58" value="Output error message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="KAmoRC1d8-6ZEea_E789-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="480" as="sourcePoint" />
+            <mxPoint x="435" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="400.52" y="191.0999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402.5" y="210" as="sourcePoint" />
+            <mxPoint x="437.5" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="800" as="sourcePoint" />
+            <mxPoint x="620" y="799.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="KAmoRC1d8-6ZEea_E789-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-79.5" as="sourcePoint" />
+            <mxPoint x="590" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="385" as="sourcePoint" />
+            <mxPoint x="610" y="384.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="20" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="KAmoRC1d8-6ZEea_E789-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-85" as="sourcePoint" />
+            <mxPoint x="590" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-74" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-170" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-76" value="getNumOfEmployees()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-77" value="getTotalDaysAbsent()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="348" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="590" y="755" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-79" value="calculateAvgDaysAbsen()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="760" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-180" width="20" height="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="KAmoRC1d8-6ZEea_E789-81" value="main()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="772" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
